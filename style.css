@@ -1,0 +1,154 @@
+/* Header Section CSS */
+.head-banner{
+    background-color: #F0FFF0;
+}
+.logo img{
+    width: 200px;
+    height: auto;
+}
+.list{
+    margin-right: 20px;
+    font-size: 22px;
+    border-top: 2px solid transparent;
+}
+.list:hover{
+    border-top: 2px solid #21B573;
+}
+.button{
+    border-radius: 35px;
+    background: #21B573;
+    color: #fff;
+    padding: 0 35px;
+}
+.button:hover{
+    background: #FFF;
+    border: 1px solid #21B573;
+    color: #21B573;
+}
+/* ----------- */
+
+/* Banner Section */
+.banner{
+    padding: 80px 0;
+}
+.size{
+    font-size: 66px;
+}
+.banner-img img{
+    width: 100%;
+    height: auto;
+}
+.banner-text p{
+    color: #767676;
+}
+span{
+    color: #21B573;
+}
+/* ------------- */
+
+/* Topic Section */
+.topic-banner{
+    width: 280px;
+    border-radius: 8px;
+    background-color: #f0fff0;
+    margin-top: 50px;
+    margin-right: 30px;
+    margin-bottom: 50px;
+    padding: 30px 30px 20px 30px;
+    text-align: center;
+}
+.topic-banner:last-child{
+    margin-right: 0px;
+}
+.topic-banner:hover{
+    background: #fff;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.4);
+}
+.topic-banner img{
+    width: 100px;
+    height: auto;
+    margin-bottom: 20px;
+}
+.topic-banner h2{
+    font-size: 22px;
+    margin: 20px 0;
+}
+/* ------------- */
+
+/* Online Courses */
+.title h3{
+    margin: 70px 0;
+    font-size: 40px;
+}
+.card-bottom{
+    padding-top: 40px;
+}
+.card-bottom p{
+    font-size: 13px;
+}
+.card-bottom i{
+    margin-right: 5px;
+}
+.card img{
+    padding: 20px;
+}
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
+}
+.card:hover{
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.4);
+}
+/* ----------*/
+
+/* Team Css */
+.team img{
+    width: 100%;
+    height: 402px;
+}
+/* ----------- */
+
+/* Testimonial */
+.testmonial-title h3{
+    margin-top: 80px;
+    font-size: 40px;
+}
+.t-summary{
+    width: 700px;
+    margin: auto;
+    padding: 70px 0;
+    margin-bottom: 60px;
+}
+.t-summary img{
+    width: 100px;
+    margin-right: 50px;
+}
+.t-summary p{
+    margin-top: 10px;
+    font-weight: 500;
+    color: #767676
+} 
+/* -------------- */
+
+/* Footer Css */
+.footer{
+    background-color: #282531;
+    color: #fff;
+    padding: 80px 0 20px 0;
+}
+.table{
+    color: #fff;
+}
+.c-right{
+    font-size: 20px;
+    margin-top: 50px;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+a:hover{
+    color: #21B573;
+}
+/* -------------- */
